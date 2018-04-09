@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" focusable="true" height="1375.0" id="workspace" preserveAspectRatio="xMinYMin" viewBox="-134.0 -684.0 915.0 1375.0" width="915.0">
+<path d="M0,0 C38,0 78,626 116,626 78,629 38,5 0,7 Z" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:#495879 " visibility="visible"/>
+<path d="M343,572 C353,572 363,598 373,598" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M343,572 C353,572 364,572 374,572" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M343,572 C353,572 364,546 374,546" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M227,299 C237,299 248,572 258,572" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M462,429 C472,429 483,520 493,520" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M462,429 C472,429 484,494 494,494" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M462,429 C472,429 483,468 493,468" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M462,429 C472,429 483,442 493,442" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M462,429 C472,429 484,416 494,416" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M462,429 C472,429 484,390 494,390" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M462,429 C472,429 484,364 494,364" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M462,429 C472,429 483,338 493,338" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M328,260 C338,260 349,429 359,429" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M410,312 C420,312 431,312 441,312" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M328,260 C338,260 349,312 359,312" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M457,286 C467,286 478,286 488,286" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M328,260 C338,260 350,286 360,286" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M512,234 C522,234 533,260 543,260" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M512,234 C523,234 534,234 545,234" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M512,234 C522,234 533,208 543,208" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M430,130 C441,130 452,234 463,234" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M529,130 C539,130 551,182 561,182" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M529,130 C539,130 550,156 560,156" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M529,130 C539,130 550,130 560,130" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M529,130 C539,130 550,104 560,104" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M529,130 C540,130 551,78 562,78" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M430,130 C440,130 452,130 462,130" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M430,130 C440,130 451,52 461,52" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M430,130 C440,130 451,26 461,26" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M430,130 C441,130 452,0 463,0" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M328,260 C338,260 349,130 359,130" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M227,299 C237,299 247,260 257,260" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M0,0 C38,0 78,299 116,299 78,302 38,5 0,7 Z" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:#495879 " visibility="visible"/>
+<path d="M435,-156 C445,-156 455,-26 465,-26" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M435,-156 C445,-156 456,-52 466,-52" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M435,-156 C445,-156 456,-78 466,-78" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M435,-156 C445,-156 455,-104 465,-104" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M435,-156 C445,-156 456,-130 466,-130" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M435,-156 C445,-156 456,-156 466,-156" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M435,-156 C445,-156 456,-182 466,-182" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M435,-156 C445,-156 455,-208 465,-208" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M435,-156 C445,-156 455,-234 465,-234" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M435,-156 C445,-156 455,-260 465,-260" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M435,-156 C445,-156 455,-286 465,-286" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M358,-156 C368,-156 380,-156 390,-156" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M219,-208 C229,-208 241,-156 251,-156" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M219,-208 C229,-208 241,-312 251,-312" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M219,-208 C229,-208 241,-338 251,-338" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M219,-208 C229,-208 240,-364 250,-364" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M219,-208 C229,-208 240,-390 250,-390" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M0,0 C38,0 78,-208 116,-208 78,-205 38,5 0,7 Z" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:#495879 " visibility="visible"/>
+<path d="M279,-481 C289,-481 300,-416 310,-416" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M279,-481 C289,-481 300,-442 310,-442" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M279,-481 C289,-481 300,-468 310,-468" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M279,-481 C289,-481 300,-494 310,-494" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M279,-481 C289,-481 300,-520 310,-520" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M279,-481 C289,-481 300,-546 310,-546" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M189,-507 C200,-507 211,-481 222,-481" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M189,-507 C199,-507 209,-572 219,-572" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M189,-507 C200,-507 211,-598 222,-598" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M0,0 C38,0 78,-507 116,-507 78,-504 38,5 0,7 Z" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:#495879 " visibility="visible"/>
+<path d="M187,-625 C197,-625 209,-624 219,-624" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:none " visibility="visible"/>
+<path d="M0,0 C38,0 78,-625 116,-625 78,-622 38,5 0,7 Z" fill="#495879" fill-opacity="1" stroke="#495879" stroke-opacity="1" stroke-width="1px" style="fill:#495879 " visibility="visible"/>
+<rect fill="#CC0033" fill-opacity="0.4" height="6" rx="0" ry="0" stroke="#FF9933" stroke-opacity="0.4" stroke-width="1px" visibility="hidden" width="50" x="5" y="5"/>
+<path fill-opacity="0.4" stroke="#CC0033" stroke-opacity="0.4" stroke-width="1px" style="fill:none " visibility="hidden"/>
+<path fill-opacity="0.4" stroke="#CC0033" stroke-opacity="0.4" stroke-width="1px" style="fill:none " visibility="hidden"/>
+<rect fill="#CC0033" fill-opacity="0.4" height="6" rx="0" ry="0" stroke="#FF9933" stroke-opacity="0.4" stroke-width="1px" visibility="hidden" width="50" x="5" y="5"/>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(-84,-19) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(244,184,45)" fill-opacity="1" height="44" rx="6.6" ry="6.6" stroke="rgb(241,163,39)" stroke-opacity="1" stroke-width="1px" style="cursor: default;" width="172" x="-2" y="-3"/>
+<rect fill="rgb(80,157,192)" height="38" rx="17.1" ry="17.1" stroke="rgb(57,113,177)" stroke-width="2px" style="cursor: default;" width="168" x="0" y="0"/>
+<text fill="#ffffff" font-family="verdana" font-size="13.4375" font-style="normal" font-weight="bold" style="cursor: default;" visibility="visible" x="11" y="11">
+<tspan dy="1em" x="11">Spatial Humanities</tspan>
+</text>
+<g focusable="true" height="16" preserveAspectRatio="none" transform="translate(0,11) scale(0,0.16)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(114,-634) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="25" rx="3.75" ry="3.75" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="76" x="-2" y="-3"/>
+<rect fill="rgb(207, 226, 243)" height="19" rx="0" ry="0" stroke="rgb(2,59,185)" stroke-width="2px" style="cursor: move;" width="72" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="10.75" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Participation</tspan>
+</text>
+<ellipse cx="75" cy="9.5" fill="rgb(207, 226, 243)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="visible" width="6"/>
+<g focusable="true" height="13" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.13)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(217,-632) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="111" x="-2" y="-3"/>
+<rect fill="rgb(207, 226, 243)" height="16" rx="0" ry="0" stroke="rgb(11, 83, 148)" stroke-width="2px" style="cursor: move;" width="107" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Postmodern Humanities</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(207, 226, 243)" height="6" rx="3" ry="3" stroke="rgb(11, 83, 148)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(114,-516) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="25" rx="3.75" ry="3.75" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="78" x="-2" y="-3"/>
+<rect fill="rgb(224,229,239)" height="19" rx="0" ry="0" stroke="rgb(2,59,185)" stroke-width="2px" style="cursor: move;" width="74" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="10.75" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Visualization</tspan>
+</text>
+<ellipse cx="77" cy="9.5" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="visible" width="6"/>
+<g focusable="true" height="13" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.13)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(220,-606) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="114" x="-2" y="-3"/>
+<rect fill="rgb(224,229,239)" height="16" rx="0" ry="0" stroke="rgb(2,59,185)" stroke-width="2px" style="cursor: move;" width="110" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Multivariate visualization</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(217,-580) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="58" x="-2" y="-3"/>
+<rect fill="rgb(224,229,239)" height="16" rx="0" ry="0" stroke="rgb(2,59,185)" stroke-width="2px" style="cursor: move;" width="54" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Pareto GIS</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(220,-489) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="62" x="-2" y="-3"/>
+<rect fill="rgb(224,229,239)" height="16" rx="0" ry="0" stroke="rgb(2,59,185)" stroke-width="2px" style="cursor: move;" width="58" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">New genres</tspan>
+</text>
+<ellipse cx="61" cy="8" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="visible" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(308,-554) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="74" x="-2" y="-3"/>
+<rect fill="rgb(224,229,239)" height="16" rx="2.4" ry="2.4" stroke="rgb(2,59,185)" stroke-width="2px" style="cursor: move;" width="70" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Spatial literacy</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(308,-528) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="77" x="-2" y="-3"/>
+<rect fill="rgb(224,229,239)" height="16" rx="2.4" ry="2.4" stroke="rgb(2,59,185)" stroke-width="2px" style="cursor: move;" width="73" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Highly technical</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(308,-502) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="55" x="-2" y="-3"/>
+<rect fill="rgb(224,229,239)" height="16" rx="2.4" ry="2.4" stroke="rgb(2,59,185)" stroke-width="2px" style="cursor: move;" width="51" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Expensive</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(308,-476) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="80" x="-2" y="-3"/>
+<rect fill="rgb(224,229,239)" height="16" rx="2.4" ry="2.4" stroke="rgb(2,59,185)" stroke-width="2px" style="cursor: move;" width="76" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Incomplete data</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(308,-450) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="64" x="-2" y="-3"/>
+<rect fill="rgb(224,229,239)" height="16" rx="2.4" ry="2.4" stroke="rgb(2,59,185)" stroke-width="2px" style="cursor: move;" width="60" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Team based</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(308,-424) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="123" x="-2" y="-3"/>
+<rect fill="rgb(224,229,239)" height="16" rx="2.4" ry="2.4" stroke="rgb(2,59,185)" stroke-width="2px" style="cursor: move;" width="119" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Epistemological challenges</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(114,-217) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="25" rx="3.75" ry="3.75" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="107" x="-2" y="-3"/>
+<rect fill="rgb(217, 234, 211)" height="19" rx="8.55" ry="8.55" stroke="rgb(39, 78, 19)" stroke-width="2px" style="cursor: move;" width="103" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="10.75" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Future framework</tspan>
+</text>
+<ellipse cx="106" cy="9.5" fill="rgb(217, 234, 211)" height="6" rx="3" ry="3" stroke="rgb(39, 78, 19)" stroke-width="1px" style="cursor: default;" visibility="visible" width="6"/>
+<g focusable="true" height="13" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.13)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(248,-398) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="107" x="-2" y="-3"/>
+<rect fill="rgb(207, 226, 243)" height="16" rx="7.2" ry="7.2" stroke="rgb(39, 78, 19)" stroke-width="2px" style="cursor: move;" width="103" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Visual and experiential</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(207, 226, 243)" height="6" rx="3" ry="3" stroke="rgb(39, 78, 19)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(248,-372) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="99" x="-2" y="-3"/>
+<rect fill="rgb(207, 226, 243)" height="16" rx="7.2" ry="7.2" stroke="rgb(39, 78, 19)" stroke-width="2px" style="cursor: move;" width="95" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Multiple perspectives</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(207, 226, 243)" height="6" rx="3" ry="3" stroke="rgb(39, 78, 19)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(249,-346) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="103" x="-2" y="-3"/>
+<rect fill="rgb(207, 226, 243)" height="16" rx="7.2" ry="7.2" stroke="rgb(39, 78, 19)" stroke-width="2px" style="cursor: move;" width="99" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Complex enviroments</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(207, 226, 243)" height="6" rx="3" ry="3" stroke="rgb(39, 78, 19)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(249,-320) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="99" x="-2" y="-3"/>
+<rect fill="rgb(207, 226, 243)" height="16" rx="7.2" ry="7.2" stroke="rgb(39, 78, 19)" stroke-width="2px" style="cursor: move;" width="95" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Simultaneous events</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(207, 226, 243)" height="6" rx="3" ry="3" stroke="rgb(39, 78, 19)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(249,-164) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="111" x="-2" y="-3"/>
+<rect fill="rgb(207, 226, 243)" height="16" rx="7.2" ry="7.2" stroke="rgb(39, 78, 19)" stroke-width="2px" style="cursor: move;" width="107" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Postmodern Humanities</tspan>
+</text>
+<ellipse cx="110" cy="8" fill="rgb(207, 226, 243)" height="6" rx="3" ry="3" stroke="rgb(39, 78, 19)" stroke-width="1px" style="cursor: default;" visibility="visible" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(388,-164) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="49" x="-2" y="-3"/>
+<rect fill="rgb(207, 226, 243)" height="16" rx="7.2" ry="7.2" stroke="rgb(39, 78, 19)" stroke-width="2px" style="cursor: move;" width="45" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">THEMES</tspan>
+</text>
+<ellipse cx="48" cy="8" fill="rgb(207, 226, 243)" height="6" rx="3" ry="3" stroke="rgb(39, 78, 19)" stroke-width="1px" style="cursor: default;" visibility="visible" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(463,-294) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="125" x="-2" y="-3"/>
+<rect fill="rgb(207, 226, 243)" height="16" rx="7.2" ry="7.2" stroke="rgb(39, 78, 19)" stroke-width="2px" style="cursor: move;" width="121" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Competing spatial schemes</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(207, 226, 243)" height="6" rx="3" ry="3" stroke="rgb(39, 78, 19)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(463,-268) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="135" x="-2" y="-3"/>
+<rect fill="rgb(207, 226, 243)" height="16" rx="7.2" ry="7.2" stroke="rgb(39, 78, 19)" stroke-width="2px" style="cursor: move;" width="131" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Discontinuous space and time</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(207, 226, 243)" height="6" rx="3" ry="3" stroke="rgb(39, 78, 19)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(463,-242) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="107" x="-2" y="-3"/>
+<rect fill="rgb(207, 226, 243)" height="16" rx="7.2" ry="7.2" stroke="rgb(39, 78, 19)" stroke-width="2px" style="cursor: move;" width="103" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Imagined communities</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(207, 226, 243)" height="6" rx="3" ry="3" stroke="rgb(39, 78, 19)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(463,-216) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="91" x="-2" y="-3"/>
+<rect fill="rgb(207, 226, 243)" height="16" rx="7.2" ry="7.2" stroke="rgb(39, 78, 19)" stroke-width="2px" style="cursor: move;" width="87" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Negotiating spaces</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(207, 226, 243)" height="6" rx="3" ry="3" stroke="rgb(39, 78, 19)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(464,-190) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="74" x="-2" y="-3"/>
+<rect fill="rgb(207, 226, 243)" height="16" rx="7.2" ry="7.2" stroke="rgb(39, 78, 19)" stroke-width="2px" style="cursor: move;" width="70" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Movement flux</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(207, 226, 243)" height="6" rx="3" ry="3" stroke="rgb(39, 78, 19)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(464,-164) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="35" x="-2" y="-3"/>
+<rect fill="rgb(207, 226, 243)" height="16" rx="7.2" ry="7.2" stroke="rgb(39, 78, 19)" stroke-width="2px" style="cursor: move;" width="31" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Scale</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(207, 226, 243)" height="6" rx="3" ry="3" stroke="rgb(39, 78, 19)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(464,-138) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="120" x="-2" y="-3"/>
+<rect fill="rgb(207, 226, 243)" height="16" rx="7.2" ry="7.2" stroke="rgb(39, 78, 19)" stroke-width="2px" style="cursor: move;" width="116" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Spatio-temporal networks</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(207, 226, 243)" height="6" rx="3" ry="3" stroke="rgb(39, 78, 19)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(463,-112) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="129" x="-2" y="-3"/>
+<rect fill="rgb(207, 226, 243)" height="16" rx="7.2" ry="7.2" stroke="rgb(39, 78, 19)" stroke-width="2px" style="cursor: move;" width="125" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Spatial and temporal fluidity</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(207, 226, 243)" height="6" rx="3" ry="3" stroke="rgb(39, 78, 19)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(464,-86) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="88" x="-2" y="-3"/>
+<rect fill="rgb(207, 226, 243)" height="16" rx="7.2" ry="7.2" stroke="rgb(39, 78, 19)" stroke-width="2px" style="cursor: move;" width="84" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Emergent realities</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(207, 226, 243)" height="6" rx="3" ry="3" stroke="rgb(39, 78, 19)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(464,-60) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="191" x="-2" y="-3"/>
+<rect fill="rgb(207, 226, 243)" height="16" rx="7.2" ry="7.2" stroke="rgb(39, 78, 19)" stroke-width="2px" style="cursor: move;" width="187" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">De-territorialization and  de-territorialization</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(207, 226, 243)" height="6" rx="3" ry="3" stroke="rgb(39, 78, 19)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(463,-34) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="99" x="-2" y="-3"/>
+<rect fill="rgb(207, 226, 243)" height="16" rx="7.2" ry="7.2" stroke="rgb(39, 78, 19)" stroke-width="2px" style="cursor: move;" width="95" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Recursivity / Process</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(207, 226, 243)" height="6" rx="3" ry="3" stroke="rgb(39, 78, 19)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(114,289) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="25" rx="3.75" ry="3.75" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="116" x="-2" y="-3"/>
+<rect fill="rgb(224,229,239)" height="19" rx="0" ry="0" stroke="rgb(2,59,185)" stroke-width="2px" style="cursor: move;" width="112" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="10.75" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">GIS facilitated tools</tspan>
+</text>
+<ellipse cx="115" cy="9.5" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="visible" width="6"/>
+<g focusable="true" height="13" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.13)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(255,252) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="75" x="-2" y="-3"/>
+<rect fill="rgb(224,229,239)" height="16" rx="0" ry="0" stroke="rgb(2,59,185)" stroke-width="2px" style="cursor: move;" width="71" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Redefining GIS</tspan>
+</text>
+<ellipse cx="74" cy="8" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="visible" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(357,122) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="76" x="-2" y="-3"/>
+<rect fill="rgb(224,229,239)" height="16" rx="0" ry="0" stroke="rgb(2,59,185)" stroke-width="2px" style="cursor: move;" width="72" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Multimodal GIS</tspan>
+</text>
+<ellipse cx="75" cy="8" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="visible" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(461,-8) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="86" x="-2" y="-3"/>
+<rect fill="rgb(224,229,239)" height="16" rx="0" ry="0" stroke="rgb(2,59,185)" stroke-width="2px" style="cursor: move;" width="82" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Spatial narratives</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(459,18) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="102" x="-2" y="-3"/>
+<rect fill="rgb(224,229,239)" height="16" rx="0" ry="0" stroke="rgb(2,59,185)" stroke-width="2px" style="cursor: move;" width="98" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Sociospatial networks</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(459,44) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="86" x="-2" y="-3"/>
+<rect fill="rgb(224,229,239)" height="16" rx="0" ry="0" stroke="rgb(2,59,185)" stroke-width="2px" style="cursor: move;" width="82" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">CAVE inmmersion</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(460,122) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="72" x="-2" y="-3"/>
+<rect fill="rgb(224,229,239)" height="16" rx="0" ry="0" stroke="rgb(2,59,185)" stroke-width="2px" style="cursor: move;" width="68" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Deep mapping</tspan>
+</text>
+<ellipse cx="71" cy="8" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="visible" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(560,70) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="58" x="-2" y="-3"/>
+<rect fill="rgb(224,229,239)" height="16" rx="0" ry="0" stroke="rgb(2,59,185)" stroke-width="2px" style="cursor: move;" width="54" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Multimedia</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(558,96) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="67" x="-2" y="-3"/>
+<rect fill="rgb(224,229,239)" height="16" rx="0" ry="0" stroke="rgb(2,59,185)" stroke-width="2px" style="cursor: move;" width="63" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Multi-layered</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(558,122) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="94" x="-2" y="-3"/>
+<rect fill="rgb(224,229,239)" height="16" rx="0" ry="0" stroke="rgb(2,59,185)" stroke-width="2px" style="cursor: move;" width="90" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Open to negotiation</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(558,148) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="107" x="-2" y="-3"/>
+<rect fill="rgb(224,229,239)" height="16" rx="0" ry="0" stroke="rgb(2,59,185)" stroke-width="2px" style="cursor: move;" width="103" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Famed as conversation</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(559,174) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="107" x="-2" y="-3"/>
+<rect fill="rgb(224,229,239)" height="16" rx="0" ry="0" stroke="rgb(2,59,185)" stroke-width="2px" style="cursor: move;" width="103" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Visual and inmmersive</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(461,226) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="54" x="-2" y="-3"/>
+<rect fill="rgb(224,229,239)" height="16" rx="0" ry="0" stroke="rgb(2,59,185)" stroke-width="2px" style="cursor: move;" width="50" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">GIScience</tspan>
+</text>
+<ellipse cx="53" cy="8" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="visible" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(541,200) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="77" x="-2" y="-3"/>
+<rect fill="rgb(224,229,239)" height="16" rx="0" ry="0" stroke="rgb(2,59,185)" stroke-width="2px" style="cursor: move;" width="73" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Neogeopgraphy</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(543,226) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="188" x="-2" y="-3"/>
+<rect fill="rgb(224,229,239)" height="16" rx="0" ry="0" stroke="rgb(2,59,185)" stroke-width="2px" style="cursor: move;" width="184" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">VGI (Volunteered Geographic Information)</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(541,252) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="137" x="-2" y="-3"/>
+<rect fill="rgb(224,229,239)" height="16" rx="0" ry="0" stroke="rgb(2,59,185)" stroke-width="2px" style="cursor: move;" width="133" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Geospatial semantic searching</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(358,278) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="101" x="-2" y="-3"/>
+<rect fill="rgb(224,229,239)" height="16" rx="0" ry="0" stroke="rgb(2,59,185)" stroke-width="2px" style="cursor: move;" width="97" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Collective intelligence</tspan>
+</text>
+<ellipse cx="100" cy="8" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="visible" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(486,278) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="100" x="-2" y="-3"/>
+<rect fill="rgb(224,229,239)" height="16" rx="0" ry="0" stroke="rgb(2,59,185)" stroke-width="2px" style="cursor: move;" width="96" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Participatory learning</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(357,304) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="55" x="-2" y="-3"/>
+<rect fill="rgb(224,229,239)" height="16" rx="0" ry="0" stroke="rgb(2,59,185)" stroke-width="2px" style="cursor: move;" width="51" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Spatial 3D</tspan>
+</text>
+<ellipse cx="54" cy="8" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="visible" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(439,304) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="56" x="-2" y="-3"/>
+<rect fill="rgb(224,229,239)" height="16" rx="0" ry="0" stroke="rgb(2,59,185)" stroke-width="2px" style="cursor: move;" width="52" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Spatial VR</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(357,421) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="108" x="-2" y="-3"/>
+<rect fill="rgb(224,229,239)" height="16" rx="0" ry="0" stroke="rgb(2,59,185)" stroke-width="2px" style="cursor: move;" width="104" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Web 2.0 and inmersive</tspan>
+</text>
+<ellipse cx="107" cy="8" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="visible" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(491,330) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="36" x="-2" y="-3"/>
+<rect fill="rgb(224,229,239)" height="16" rx="0" ry="0" stroke="rgb(2,59,185)" stroke-width="2px" style="cursor: move;" width="32" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Wikis</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(492,356) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="50" x="-2" y="-3"/>
+<rect fill="rgb(224,229,239)" height="16" rx="0" ry="0" stroke="rgb(2,59,185)" stroke-width="2px" style="cursor: move;" width="46" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Mashups</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(492,382) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="36" x="-2" y="-3"/>
+<rect fill="rgb(224,229,239)" height="16" rx="0" ry="0" stroke="rgb(2,59,185)" stroke-width="2px" style="cursor: move;" width="32" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Blogs</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(492,408) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="108" x="-2" y="-3"/>
+<rect fill="rgb(224,229,239)" height="16" rx="0" ry="0" stroke="rgb(2,59,185)" stroke-width="2px" style="cursor: move;" width="104" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Social networking sites</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(491,434) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="88" x="-2" y="-3"/>
+<rect fill="rgb(224,229,239)" height="16" rx="0" ry="0" stroke="rgb(2,59,185)" stroke-width="2px" style="cursor: move;" width="84" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Volunteered video</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(491,460) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="41" x="-2" y="-3"/>
+<rect fill="rgb(224,229,239)" height="16" rx="0" ry="0" stroke="rgb(2,59,185)" stroke-width="2px" style="cursor: move;" width="37" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">VRE´s</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(492,486) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="42" x="-2" y="-3"/>
+<rect fill="rgb(224,229,239)" height="16" rx="0" ry="0" stroke="rgb(2,59,185)" stroke-width="2px" style="cursor: move;" width="38" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Games</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(491,512) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="73" x="-2" y="-3"/>
+<rect fill="rgb(224,229,239)" height="16" rx="0" ry="0" stroke="rgb(2,59,185)" stroke-width="2px" style="cursor: move;" width="69" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Mobile devices</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(256,564) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="89" x="-2" y="-3"/>
+<rect fill="rgb(224,229,239)" height="16" rx="0" ry="0" stroke="rgb(2,59,185)" stroke-width="2px" style="cursor: move;" width="85" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User requeriments</tspan>
+</text>
+<ellipse cx="88" cy="8" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="visible" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(372,538) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="104" x="-2" y="-3"/>
+<rect fill="rgb(224,229,239)" height="16" rx="2.4" ry="2.4" stroke="rgb(2,59,185)" stroke-width="2px" style="cursor: move;" width="100" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Typology construction</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(372,564) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="150" x="-2" y="-3"/>
+<rect fill="rgb(224,229,239)" height="16" rx="2.4" ry="2.4" stroke="rgb(2,59,185)" stroke-width="2px" style="cursor: move;" width="146" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Data additions and manipulations</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(371,590) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="22" rx="3.3" ry="3.3" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="123" x="-2" y="-3"/>
+<rect fill="rgb(224,229,239)" height="16" rx="2.4" ry="2.4" stroke="rgb(2,59,185)" stroke-width="2px" style="cursor: move;" width="119" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="8.0625" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">User-defined geopgraphies</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="10" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.1)" width="0"/>
+</g>
+<g focusable="true" height="100" preserveAspectRatio="none" transform="translate(114,616) scale(1,1)" visibility="visible" width="100">
+<rect fill="rgb(252,235,192)" fill-opacity="0" height="25" rx="3.75" ry="3.75" stroke="rgb(241,163,39)" stroke-opacity="0" stroke-width="1px" width="70" x="-2" y="-3"/>
+<rect fill="rgb(224,229,239)" height="19" rx="0" ry="0" stroke="rgb(2,59,185)" stroke-width="2px" style="cursor: move;" width="66" x="0" y="0"/>
+<text fill="rgb(82,92,97)" font-family="verdana" font-size="10.75" font-style="normal" font-weight="normal" style="cursor: move;" visibility="visible" x="3" y="3">
+<tspan dy="1em" x="3">Integration</tspan>
+</text>
+<ellipse cx="3" cy="3" fill="rgb(224,229,239)" height="6" rx="3" ry="3" stroke="rgb(2,59,185)" stroke-width="1px" style="cursor: default;" visibility="hidden" width="6"/>
+<g focusable="true" height="13" preserveAspectRatio="none" transform="translate(0,3) scale(0,0.13)" width="0"/>
+</g>
+</svg>

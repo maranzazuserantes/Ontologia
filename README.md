@@ -1,2 +1,2 @@
-# Ontologia
+# Ontologías
 Wisemaps y taxonomías
